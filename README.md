@@ -31,10 +31,10 @@ Note : Recommended Termux versi 0.117
 3. pkg install php
 4. termux-setup-storage
 5. cd /storage/emulated/0
-6. git clone https://github.com/agathasangkara/vidio
-7. cd vidio
+6. git clone https://github.com/asharizki/ashavid
+7. cd ashavid
 8. php installer.php
 9. cek versi php mu dan kernel mu kemudian install
 10. php run.php
 
-Donate ( DANA ) : 0895415306281
+Donate ( DANA ) : 081346444450
